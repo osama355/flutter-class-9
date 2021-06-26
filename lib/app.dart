@@ -50,7 +50,7 @@ Widget list() {
     trailing: Column(
       mainAxisAlignment: MainAxisAlignment.spaceAround,
       children: [
-        Text('4.25 PM'),
+        Text('4:25 PM'),
         CircleAvatar(
           backgroundColor: Colors.green,
           radius: 7,
